@@ -1,4 +1,4 @@
-### Hi there 👋
+Physics PhD student @ HU Berlin working in quantum field theory of black hole scattering.
 
 <!--
 **mathias-driesse/mathias-driesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
